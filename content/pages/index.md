@@ -81,10 +81,9 @@ sections:
     col_number: two
     grid_items:
       - title: Características
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: >
+          O ambiente de uma comunidade terapêutica é facilitador da sua
+          recuperação em saúde mental 
         actions:
           - label: Learn More
             url: /overview
