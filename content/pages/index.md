@@ -102,7 +102,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Gostava de ver esclarecidas as suas dúvidas?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: ''
     actions:
       - label: Contacte-nos
         url: /docs/getting-started/installation
