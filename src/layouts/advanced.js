@@ -3,7 +3,6 @@ import _ from 'lodash';
 
 import components, {Layout} from '../components/index';
 
-
 export default class Advanced extends React.Component {
     render() {
         return (
