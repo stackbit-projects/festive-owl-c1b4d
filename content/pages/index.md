@@ -77,7 +77,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Residência Psiquiátrica
-    subtitle: An optional subtitle of the section
+    subtitle: Uma abordagem diferente à sua saúde mental
     col_number: two
     grid_items:
       - title: Overview
