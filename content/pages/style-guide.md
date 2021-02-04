@@ -9,7 +9,7 @@ layout: page
 
 <form name="contact" method="POST" data-netlify="true">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>O  Name: <input type="text" name="name" /></label>   
   </p>
   <p>
     <label>O seu Email: <input type="email" name="email" /></label>
