@@ -20,10 +20,8 @@ sections:
     col_number: three
     grid_items:
       - title: Só quem está maluco vai ao psicólogo?
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |
+          Não podiamos discordar mais de frases como esta. A 
         actions:
           - label: Get Started
             url: /docs
