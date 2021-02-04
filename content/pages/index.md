@@ -20,8 +20,13 @@ sections:
     col_number: three
     grid_items:
       - title: Só quem está maluco procura ajuda em saúde mental?
-        content: |
-          Não podiamos discordar mais de frases como esta. A 
+        content: >
+          Não podiamos discordar mais de frases como esta. Aliás, consideramos
+          mesmo que quem nos procura revela desde logo uma atitude proativa em
+          desenvolver o seu auto-conhecimento e implementar estratégias
+          terapêuticas na sua vida, desde a psicoterapia a uma intervenção
+          medicamentosa passando por actividades ocupacionais que facilitam a
+          reinserção social.
         actions:
           - label: Get Started
             url: /docs
