@@ -8,7 +8,9 @@ sections:
     content: >
       A mh resources tem uma equipa especializada em saúde mental pronta para o
       esclarecer. Teremos todo o gosto em falar consigo para que receba
-      respostas às suas dúvidas e procure a solução mais ajustada a si.
+      respostas às suas dúvidas e procure a solução mais ajustada a si. Temos
+      para si várias Clínicas e residências psiquiátricas ajustadas às suas
+      necessidades com características facilitadoras do seu tratamento.
     actions:
       - label: Saiba mais
         url: /docs
