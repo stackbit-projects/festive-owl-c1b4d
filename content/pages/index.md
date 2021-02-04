@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Precisa de ajuda?
-    image: images/5.jpg
+    image: images/avatar.png
     content: >
       A mh resources tem uma equipa especializada em saúde mental pronta para o
       esclarecer. Teremos todo o gosto em falar consigo para que receba
