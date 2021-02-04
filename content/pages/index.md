@@ -5,9 +5,10 @@ sections:
     type: section_hero
     title: Precisa de ajuda?
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      A mh resources tem uma equipa especializada em saúde mental pronta para o
+      esclarecer. Teremos todo o gosto em falar consigo para que receba
+      respostas às suas dúvidas e procure a solução mais ajustada a si.
     actions:
       - label: Get Started
         url: /docs
