@@ -104,7 +104,7 @@ sections:
     title: Gostava de ver esclarecidas as suas dúvidas?
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Contacte-nos
         url: /docs/getting-started/installation
         style: primary
 layout: advanced
