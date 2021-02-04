@@ -19,7 +19,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Só quem está maluco vai ao psicólogo?
+      - title: Só quem está maluco procura ajuda em saúde mental?
         content: |
           Não podiamos discordar mais de frases como esta. A 
         actions:
