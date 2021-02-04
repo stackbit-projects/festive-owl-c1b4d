@@ -18,7 +18,7 @@ layout: page
     <label>Mensagem: <textarea name="message"></textarea></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit">Enviar</button>
   </p>
 </form>
 
