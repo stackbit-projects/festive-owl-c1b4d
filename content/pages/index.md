@@ -28,7 +28,7 @@ sections:
           medicamentosa passando por actividades ocupacionais que facilitam a
           reinserção social.
         actions:
-          - label: Get Started
+          - label: ''
             url: /docs
             style: link
       - title: Blog
