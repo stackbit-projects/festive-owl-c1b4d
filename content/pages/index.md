@@ -10,7 +10,7 @@ sections:
       esclarecer. Teremos todo o gosto em falar consigo para que receba
       respostas às suas dúvidas e procure a solução mais ajustada a si.
     actions:
-      - label: Get Started
+      - label: Saiba mais
         url: /docs
         style: primary
   - section_id: features
