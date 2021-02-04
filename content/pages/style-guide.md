@@ -12,7 +12,7 @@ layout: page
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>O seu Email: <input type="email" name="email" /></label>
   </p>
   <p>
     <label>Mensagem: <textarea name="message"></textarea></label>
