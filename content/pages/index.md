@@ -35,7 +35,7 @@ sections:
         content: |
           PSIQUIATRIA
         actions:
-          - label: View Posts
+          - label: Ver Publicações
             url: /blog
             style: link
       - title: Style Guide
