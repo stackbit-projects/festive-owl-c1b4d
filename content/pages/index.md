@@ -89,10 +89,12 @@ sections:
             url: /overview
             style: link
       - title: Valências
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          A nossa filosofia de intervenção contempla uma abordagem por parte da
+          psiquiatria e psicologia, em estreita colaboração. Somam-se a estas
+          valências a possibilidade de realizar terapia ocupacional, englobando
+          yoga, pintura, ginásio e outras actividades. O pressuposto base desta
+          abordagem é ...
         actions:
           - label: Learn More
             url: /showcase
