@@ -27,10 +27,7 @@ sections:
           terapêuticas na sua vida, desde a psicoterapia a uma intervenção
           medicamentosa passando por actividades ocupacionais que facilitam a
           reinserção social.
-        actions:
-          - label: ''
-            url: /docs
-            style: link
+        actions: []
       - title: Blog
         content: |
           PSIQUIATRIA
