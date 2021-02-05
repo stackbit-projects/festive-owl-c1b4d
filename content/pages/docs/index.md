@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: A sua ajuda começa aqui
 layout: docs
 ---
 
