@@ -1,5 +1,5 @@
 ---
-title: Plug-ins
+title: ''
 weight: 2
 layout: docs
 ---
