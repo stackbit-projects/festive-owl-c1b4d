@@ -1,5 +1,5 @@
 ---
-title: Starter Theme
+title: ''
 weight: 1
 layout: docs
 ---
