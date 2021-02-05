@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "Psi ",
+        "title": "Psi Mental",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
