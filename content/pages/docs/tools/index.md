@@ -1,8 +1,6 @@
 ---
 title: ''
-excerpt: >-
-  See some interesting tools developed by the Libris community to help automate
-  parts of your workflow.
+excerpt: ''
 layout: docs
 ---
 
