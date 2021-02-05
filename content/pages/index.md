@@ -21,12 +21,15 @@ sections:
     grid_items:
       - title: Só quem está maluco procura ajuda em saúde mental?
         content: >
-          Não podiamos discordar mais de frases como esta. Aliás, consideramos
-          mesmo que quem nos procura revela desde logo uma atitude proativa em
-          desenvolver o seu auto-conhecimento e implementar estratégias
-          terapêuticas na sua vida, desde a psicoterapia a uma intervenção
-          medicamentosa passando por actividades ocupacionais que facilitam a
-          reinserção social.
+          Discordamos totalmente de frases como esta. Consideramos que quem nos
+          procura revela desde logo uma atitude proativa em desenvolver o seu
+          auto-conhecimento e implementar estratégias terapêuticas na sua vida.
+          A psicoterapia aliada a uma intervenção medicamentosa, quando
+          necessária, são comprovadamente eficazes no tratamento das mais
+          variadas perturbações psiquiátricas. Aliadas a este tronco comum temos
+          ainda a possibilidade de integrar os nossos utentes em actividades
+          ocupacionais que facilitam o processo terapêutico ao mesmo tempo que
+          desenvolvem competências.
         actions: []
       - title: Blog
         content: |
