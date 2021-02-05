@@ -49,7 +49,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/pexels-mentatdgt-1311518.jpg
+    image: images/pleasant-sage.jpg
     image_position: left
     title: A Section With An Image
     content: >-
