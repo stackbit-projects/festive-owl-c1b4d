@@ -2,15 +2,7 @@
 title: A sua ajuda começa aqui
 layout: docs
 ---
+Mais de um quinto dos portugueses sofre de uma perturbação psiquiátrica (22,9%). Esta elevada prevalência de problemas do foro psicológico e psiquiátrico sublinha a necessidade de respostas terapêuticas no âmbito da saúde mental no nosso país. Estas respostas, para serem mais eficazes, devem contemplar uma ajuda específica e personalizada, capaz de se ajustar às características individuais e sociais de cada utente.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+A filosofia de intervenção é pautada por um plano terapêutico que é concertado entre o psicólogo titular, psiquiatra e restantes profissionais para se adaptar a cada fase de intervenção tendo em conta as características biopsicossociais de cada utente.
 
-***
-
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
-
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
-
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
