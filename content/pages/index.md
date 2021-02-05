@@ -32,12 +32,8 @@ sections:
           desenvolvem competências.
         actions: []
       - title: Blog
-        content: >
-          Veja as nossas últimas publicações no nosso blog. Este é um espaço
-          onde abordamos problemas de saúde mental e as suas características
-          sendo o nosso conteúdo revisto por profissionais especializados em
-          saúde mental, vulgo psicólogos, psiquiatras e enfermeiros
-          especialistas.
+        content: |
+          PSIQUIATRIA
         actions:
           - label: Ver Publicações
             url: /blog
@@ -53,7 +49,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/pexels-mentatdgt-1311518.jpg
     image_position: left
     title: A Section With An Image
     content: >-
