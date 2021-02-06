@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Qual é a nossa filosofia de intervenção?
 excerpt: In this section you'll find basic information about Libris and how to use it.
 layout: docs
 ---
