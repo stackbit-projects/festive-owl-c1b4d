@@ -5,9 +5,9 @@ excerpt: >-
   for your project.
 layout: docs
 ---
+A nossa intervenção contempla várias modalidades e várias perturbações mentais.
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+Fazemos uma intervenção adaptada a diferentes graus de autonomia e estabilização psiquíca em regime semi-aberto tendo o utento um profissional de referência, habitualmente o psicólogo, responsável pelo caso.
 
-***
+Dispomos de várias clínicas de internamento psiquiátrico em vários pontos do país, desde Coimbra a Aveiro e Lisboa. Algumas destas clínicas estão mais vocacionadas para o** tratamento de depenências (jogo, drogas e álcool)**, enquanto outras são mais especializadas em **perturbações psicóticas (Esquizofrenias, psicose maníaco-depressiva, pertubação bipolar, perturbações da personalidade esquizóide e esquizotípica)** e em **neuroses (problemas de ansiedade, depressão, perturbação obsessivo-compulsiva, pânico, ideação suicída entre outros)**.
 
-Here are the articles in this section:
