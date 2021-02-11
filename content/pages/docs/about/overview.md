@@ -5,7 +5,7 @@ layout: docs
 ---
 <div class="note">
   <strong>Nota:</strong> 
-  Mais importante do que a pertubação é a pessoa. Tendo este mote por base podemos desenvolver um trabalho profícuo que vá ao encontro das expectativas da pessoa em relação ao seu tratamento</strong> section.
+  Mais importante do que a pertubação é a pessoa. Tendo este mote por base podemos desenvolver um trabalho profícuo que vá ao encontro das expectativas da pessoa em relação ao seu tratamento</strong> 
 </div>
 
 ## Perturbações psicóticas
@@ -24,6 +24,6 @@ Algumas das perturbações psicóticas mais conhecidas são: \*\*esquizofrenia, 
 
 ***
 
-****
+***
 
 <a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
