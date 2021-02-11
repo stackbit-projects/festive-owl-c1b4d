@@ -3,17 +3,16 @@ title: Perturbações psiquiátricas
 weight: 1
 layout: docs
 ---
-
 <div class="note">
   <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  Mais importante do que a pertubação é a pessoa. Tendo este mote por base podemos desenvolver um trabalho profícuo que vá ao encontro das expectativas da pessoa em relação ao seu tratamento</strong> section.
 </div>
 
 ## Callouts
 
 <hr>
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
+There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow.
 
 ### HTML example
 
@@ -35,6 +34,7 @@ Copy the code and modify these blocks according to your needs.
   This block signifies a general note.
 </div>
 ```
+
 ### Live example
 
 <div class="important">
@@ -54,7 +54,7 @@ Copy the code and modify these blocks according to your needs.
 
 <hr>
 
-You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
+You can create simple code blocks by placing triple backticks <code>\`\`\`</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
 
 <pre>```
 if (condition) {
@@ -65,13 +65,11 @@ if (condition) {
 ```
 </pre>
 
-```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
+    if (condition) {
+      code to run if condition is true
+    } else {
+      run some other code instead
+    }
 
 ### Syntax highlighting
 
