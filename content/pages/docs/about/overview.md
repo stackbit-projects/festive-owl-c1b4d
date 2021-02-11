@@ -8,11 +8,19 @@ layout: docs
   Mais importante do que a pertubação é a pessoa. Tendo este mote por base podemos desenvolver um trabalho profícuo que vá ao encontro das expectativas da pessoa em relação ao seu tratamento</strong> section.
 </div>
 
-## Callouts
+## Perturbações psicóticas
 
 <hr>
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow.
+As perturbações psicóticas são problemas de saúde mental que afetam a pessoa na sua percepção da realidade, podendo contemplar afetações ao nível dos sentidos (alucinações, auditívas, visuais etc..) e paralelamente , ter um impacto sobre o pensamento estando muitas das vezes presentes delírios (apreciações da realidade desfasadas da mesma) de vária ordem.  Este desiquilibrio do sistema percetivo provoca, cumulativamente problemas ao nível da interação social, do sono, da auto-estima, podendo ser um levar a um progressivo isolamento e agudização destas dificuldades.
+
+Algumas das perturbações psicóticas mais conhecidas são: **esquizofrenia, perturbação da personalidade esquizóide, perturbação da personalidade esquizotípica, psicose maníaco-depressiva e pertubação bipolar.**
+
+****
+
+****
+
+
 
 ### HTML example
 
