@@ -4,7 +4,7 @@ weight: 1
 layout: docs
 ---
 <div class="note">
-  <strong>Note:</strong> 
+  <strong>Nota:</strong> 
   Mais importante do que a pertubação é a pessoa. Tendo este mote por base podemos desenvolver um trabalho profícuo que vá ao encontro das expectativas da pessoa em relação ao seu tratamento</strong> section.
 </div>
 
