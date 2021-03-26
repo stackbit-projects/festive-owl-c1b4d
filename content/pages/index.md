@@ -39,10 +39,13 @@ sections:
             url: /blog
             style: link
       - title: Esclareça as suas dúvidas
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Para responder de forma adequada e personalizada às suas questões,
+          temos uma equipa de especialistas em saúde mental prontos a falar
+          consigo. Tentaremos encontrar a solução adequada para o seu problema
+          tendo em conta as suas necessidades e características. Este primeiro
+          contacto serve também para que possamos fazer um levantamento das suas
+          principais preocupações dando a resposta mais adequada às mesmas.
         actions:
           - label: Learn More
             url: /style-guide
