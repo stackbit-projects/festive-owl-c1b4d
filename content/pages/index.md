@@ -79,7 +79,7 @@ sections:
           O ambiente de uma comunidade terapêutica é facilitador da sua
           recuperação em saúde mental 
         actions:
-          - label: Learn More
+          - label: Saiba mais
             url: /overview
             style: link
       - title: Valências
