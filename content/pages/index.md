@@ -90,7 +90,7 @@ sections:
           yoga, pintura, ginásio e outras actividades. O pressuposto base desta
           abordagem é ...
         actions:
-          - label: Learn More
+          - label: Saiba mais
             url: /showcase
             style: link
   - section_id: cta
