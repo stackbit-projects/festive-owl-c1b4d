@@ -47,7 +47,7 @@ sections:
           contacto serve também para que possamos fazer um levantamento das suas
           principais preocupações dando a resposta mais adequada às mesmas.
         actions:
-          - label: Learn More
+          - label: Saiba mais
             url: /style-guide
             style: link
   - section_id: text-img
