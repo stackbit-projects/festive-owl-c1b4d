@@ -32,8 +32,10 @@ sections:
           desenvolvem competências.
         actions: []
       - title: Blog
-        content: |
-          PSIQUIATRIA
+        content: >
+          Procua mais informação sobre saúde mental ? Procuramos manter a nossa
+          página actualizada com notícias, artigos e outras publicações sobre
+          saúde mental. 
         actions:
           - label: Ver Publicações
             url: /blog
