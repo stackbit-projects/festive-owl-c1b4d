@@ -57,10 +57,11 @@ sections:
     image: images/pleasant-sage.jpg
     image_position: left
     title: A ajuda certa começa aqui
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Quem  está à procura serviços de saúde mental pergunta-se frequentemente
+      qual será a ajuda certa para o seu problema. Para  responder a esta
+      pergunta criamos o nosso projeto, disponibilizando técnicos especializados
+      em saúde mental (Psicólogos e Psiquiatras) para responder a esta questão.
     actions:
       - label: View Demo
         url: /docs/getting-started
