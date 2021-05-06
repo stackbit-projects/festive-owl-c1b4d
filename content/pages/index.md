@@ -66,7 +66,7 @@ sections:
       - label: A nossa filosofia
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: Telefone
         url: 'tel:00351913008460'
         style: secondary
   - section_id: features-two-col
