@@ -63,7 +63,7 @@ sections:
       pergunta criamos o nosso projeto, disponibilizando técnicos especializados
       em saúde mental (Psicólogos e Psiquiatras) para responder a esta questão.
     actions:
-      - label: View Demo
+      - label: A nossa filosofia
         url: /docs/getting-started
         style: primary
       - label: Get Started
