@@ -67,7 +67,7 @@ sections:
         url: /docs/getting-started
         style: primary
       - label: Get Started
-        url: 'tel:'
+        url: 'tel:00351'
         style: secondary
   - section_id: features-two-col
     type: section_grid
